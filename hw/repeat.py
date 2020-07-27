@@ -1,3 +1,4 @@
+# Повторение домашек
 # name = input('Введите ваше имя: ')
 # print(f'Привет {name}! Как дела?')
 # user_info = {'first_name': 'Vitaly', 'last_name': 'Vertyakov'}
